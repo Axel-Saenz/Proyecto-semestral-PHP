@@ -171,7 +171,7 @@ php create_directories.php
 - Usuario admin: admin@sistema.com / password
 
 ## 🎥 Video Demostrativo
-**URL del Video**: [Agregar URL del video explicativo]
+**URL del Video**: https://youtu.be/KVBzUSCkO8A
 
 El video incluye:
 - Demostración de todas las funcionalidades
